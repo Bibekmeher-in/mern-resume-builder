@@ -1,0 +1,24 @@
+{
+    "navigation": {
+        "title": "ResumePath",
+        "home": "Home",
+        "templates": "Templates",
+        "myResumes": "My Resumes",
+        "profile": "Profile"
+    },
+    "auth": {
+        "signIn": "Sign In",
+        "signOut": "Sign Out"
+    },
+    "landing": {
+        "heroTitle": "Build Your Professional Resume in Minutes",
+        "heroSubtitle": "Our intuitive interface and curated templates make job hunting easy.",
+        "getStarted": "Get Started Now"
+    },
+    "form": {
+        "personalDetails": "Personal Details",
+        "fullName": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number"
+    }
+}
